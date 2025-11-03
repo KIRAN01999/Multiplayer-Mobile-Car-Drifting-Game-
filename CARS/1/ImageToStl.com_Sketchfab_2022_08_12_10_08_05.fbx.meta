@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 937db51682a6d7c4abd18ac73922a3bf
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      parentName: 
+      position: {x: -4.90031e-17, y: 0.16471246, z: -0.0016802922}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Assymetry
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.00001609553, y: -0.001172461, z: -0.00066141214}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Axle_FL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 2.6200722e-10, y: -0.006046012, z: -0.00024284124}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_FL
+      parentName: Axle_FL
+      position: {x: -0.0044959453, y: -0.00000024676322, z: 0.0000009796023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Axle_FR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 2.6200722e-10, y: -0.006046012, z: -0.00024284124}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_FR
+      parentName: Axle_FR
+      position: {x: 0.0044908226, y: -0.00000024676322, z: 0.0000009796023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Axle_RL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.003112736, y: 0.00207484, z: -0.00035893157}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_RL
+      parentName: Axle_RL
+      position: {x: -0.0013808163, y: 0.002647277, z: 0.00005312279}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Axle_RR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.003112736, y: 0.001865603, z: -0.00023103728}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_RR
+      parentName: Axle_RR
+      position: {x: 0.0013233828, y: 0.0026472674, z: 0.00005312279}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bonet
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0, y: -0.004646096, z: 0.0026003248}
+      rotation: {x: -5.586876e-33, y: -4.8120703e-17, z: -1.161013e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bootlid
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0, y: 0.0037252351, z: 0.0065651056}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Assymetry_1
+      parentName: Bootlid
+      position: {x: 0.0029131412, y: 0.003126962, z: -0.00461839}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bumper_F
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.00000054207516, y: -0.008551612, z: -0.00018124148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bumper_R
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.00000007616653, y: 0.007110533, z: 0.00030344323}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Doors_L
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.0048526204, y: -0.004320652, z: 0.0009178349}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Doors_R
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.00485262, y: -0.004320652, z: 0.0009178349}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Engine_T2
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0, y: -0.0051995437, z: -0.00042830108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fan
+      parentName: Engine_T2
+      position: {x: -0.00001939535, y: -0.0021909361, z: 0.0004615499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fender_FL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.004694406, y: -0.0055492846, z: 0.0013817245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fender_FR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.004694406, y: -0.005549286, z: 0.0013817245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Headlight_FL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.003323191, y: -0.008053489, z: 0.0011597708}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Headlight_FR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.003323191, y: -0.008053489, z: 0.0011597708}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: InteriorAssymetry
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.002556476, y: -0.0029575995, z: 0.0023306746}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lights_RL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.003218318, y: 0.0066511687, z: 0.0012957641}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lights_RR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.003251272, y: 0.0066476334, z: 0.0013021057}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suspension_FL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.00307917, y: -0.005738041, z: 0.0018035527}
+      rotation: {x: -0.06702771, y: 0.031283733, z: 0.0028221677, w: 0.9972566}
+      scale: {x: 1, y: 0.9999999, z: 0.81}
+    - name: Suspension_FR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.00307917, y: -0.0057380437, z: 0.0018035527}
+      rotation: {x: -0.0690018, y: -0.03178799, z: -0.0029311466, w: 0.99710566}
+      scale: {x: 1, y: 1, z: 0.81}
+    - name: Suspension_RL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.0032477337, y: 0.0045162765, z: 0.0019157797}
+      rotation: {x: 0.01887163, y: 0.031407524, z: 0.005712732, w: 0.99931216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suspension_RR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.00324773, y: 0.0045162765, z: 0.0019157797}
+      rotation: {x: 0.019266741, y: -0.031166742, z: 0.006906802, w: 0.99930465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TurnSignal_FL
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.004409411, y: -0.007868867, z: 0.0011118248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TurnSignal_FR
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: 0.004409411, y: -0.007868867, z: 0.0011118248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WindshieldWipers
+      parentName: ImageToStl.com_Sketchfab_2022_08_12_10_08_05(Clone)
+      position: {x: -0.00010211699, y: -0.0048511983, z: 0.0028249535}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
